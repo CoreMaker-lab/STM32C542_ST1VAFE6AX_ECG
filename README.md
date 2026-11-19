@@ -6,6 +6,7 @@
 **项目类型 / Project Type:** ECG Signal Acquisition · Embedded
 Processing · PC Visualization
 <img width="1309" height="636" alt="image" src="https://github.com/user-attachments/assets/3f938c89-777b-4e3e-bcd2-7e0a541844e0" />
+<img width="1599" height="1175" alt="c56c4029f445f59dae16bb212fdf93c4" src="https://github.com/user-attachments/assets/fb937303-a5fa-47b6-9f5f-137a365a7d8b" />
 
 ------------------------------------------------------------------------
 
