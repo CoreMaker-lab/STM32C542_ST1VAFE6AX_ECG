@@ -5,6 +5,7 @@
 **硬件平台 / Hardware Platform:** STM32C542CCT6 + ST1VAFE6AX  
 **项目类型 / Project Type:** ECG Signal Acquisition · Embedded
 Processing · PC Visualization
+<img width="1309" height="636" alt="image" src="https://github.com/user-attachments/assets/3f938c89-777b-4e3e-bcd2-7e0a541844e0" />
 
 ------------------------------------------------------------------------
 
